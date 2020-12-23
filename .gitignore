@@ -1,3 +1,4 @@
 .env
 _pycache_/
 Db.sqlite3
+news
